@@ -172,7 +172,7 @@ ${repoData.description || 'No description provided'}
 
         // Send image with repo info
         await conn.sendMessage(from, {
-            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/7zfdcq.jpg' },
+            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/mw1loa.jpg' },
             caption: selectedStyle,
             contextInfo: { 
                 mentionedJid: [m.sender],
@@ -180,7 +180,7 @@ ${repoData.description || 'No description provided'}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363416335506023@newsletter',
-                    newsletterName: config.OWNER_NAME || 'ObedTechX',
+                    newsletterName: config.OWNER_NAME || 'ᴏʙᴇᴅᴛᴇᴄʜ',
                     serverMessageId: 143
                 }
             }
@@ -188,7 +188,7 @@ ${repoData.description || 'No description provided'}
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/a8155b.mp3' },
+            audio: { url: 'https://files.catbox.moe/6j2z63.mp3' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
