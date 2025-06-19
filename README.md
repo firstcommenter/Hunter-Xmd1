@@ -1,52 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=HUNTER%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
-
-
-> **`Updated` HUNTER XMD with Latest Features**
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=HUNTER-XMD" alt="Typing SVG" /></a>
+  </div>
+<a><img src='https://files.catbox.moe/mw1loa.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/Obedweb/Hunter-Xmd1?tab=followers">
-    <img src="https://img.shields.io/github/followers/Obedweb?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
-  </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/stargazers">
-    <img src="https://img.shields.io/github/stars/Obedweb/Hunter-Xmd1?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
-  </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/fork">
-    <img src="https://img.shields.io/github/forks/Obedweb/Hunter-Xmd1?style=flat&color=007bff" alt="Forks" style="transform: scale(1.4); margin: 5px;"/>
-  </a>
-  <a href="https://github.com/Obedweb/Hunter-Xmd1/watchers">
-    <img src="https://img.shields.io/github/watchers/Obedweb/Hunter-Xmd1?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
-  </a>
-    
-  </p>
+  <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-HUNTER%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
+</p>
 
 <div align="center">
-  <img src="https://files.catbox.moe/g67skc.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+
 </div>
 
-**FIRST PAIR WEB**
+ <p align="center"><img src="https://profile-counter.glitch.me/{Obedweb}/count.svg" alt="Obedweb :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Obedweb}/count.svg" /></p>
 
-<a href='https://hunter-xmd-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
 
- **SECOND PAIR WEB**
 
-<a href='https://hunter-adv-pair.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20PAIR%20CODE%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
-                                                                        
-     
-### <h4 align="">. ᎷᎽ ՏϴΝᏀՏ-ᎠϴᏔΝᏞϴᎠᎬᎡ</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-</a>
-<a href='https://songs-downloader2.vercel.app' target="_blank">
-  <img alt='ᎠϴᏔΝᏞϴᎪᎠ' src='https://img.shields.io/badge/click%20SONGS%20 DOWNLOADER-darkpink?style=for-the-badge&logo=website&logoColor=black'/>
-</a>
 
-**DEPLOYING WEB**
-<a href='https://hunter-xmd-deploying-web.vercel.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20DEPLOYING%20BOT%20WEB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
+### 1. FORK THIS REPO
 
-**CONNECT WITH OBEDTECH**
+<a href='https://github.com/Obedweb/Hunter-Xmd1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<p align="center">
 
-<a href='https://reach-out-obedtech.vercel.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/%F0%9F%9A%80%EF%B8%8F%E2%80%8D%20-%F0%9F%93%8B%20%20REACH%20OUT%20OBEDTECH%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-blue' width="400" height="50" alt="Deploy bot"/></a>
-                   
+#### 𝐒𝐄𝐓𝐔𝐏
 
-                    
+
+1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
+
+ 𝐅𝐈𝐑𝐒𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐖𝐄𝐁
+
+  <a href="https://hunter-xmd-web.vercel.app"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+
+
+𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐖𝐄𝐁
+<a href="https://hunter-adv-pair.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+
+ ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
+
+   🕳IF YOU LOVE THIS PROJECT BY PK DRILLER... FOLLOW ME
+   
+   <a href="https://github.com/Obedweb"><img title="FOLLOW-ACCOUNT" src="https://img.shields.io/badge/FOLLOW-ME-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+
+   🕎 𝐃𝐄𝐏𝐋𝐎𝐘𝐈𝐍𝐆 𝐖𝐄𝐁
+
+ <a href="https://hunter-xmd-deploying-web.vercel.app"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=red&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+
+
+
+
+---
+
+## 🗃️ PROJECT ARCHITECTS
+
+<p align="center">
+  <a href="https://github.com/Obedweb">
+    <img src="https://github-readme-stats.vercel.app/api?username=Obedweb&show_icons=true&theme=radical">
+  </a>
+</p>
+<div align="center">
+  <img src="https://github.com/Obedweb/Hunter-Xmd1/blob/main/assets/menu.gif?raw=true" width="100%"/>
+</div>
+
+
+
+## 𝐑𝐄𝐀𝐂𝐇 𝐎𝐔𝐓 𝐎𝐁𝐄𝐃𝐓𝐄𝐂𝐇
+
+ <a href="https://reach-out-obedtech.vercel.app/"><img title="REACH OUT OBEDTECH" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ 
+
+

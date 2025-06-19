@@ -43,7 +43,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254794146821']
+  const ownerNumber = ['254701082940']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -112,23 +112,23 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*✨ Hello, 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿 Legend! ✨*
+  let up = `*✨ 𝙷𝙴𝙻𝙻𝙾𝚆 𝙷𝚄𝙽𝚃𝙴𝚁 𝚇𝙼𝙳.𝟻 𝙻𝙴𝙶𝙴𝙽𝙳𝚂! ✨*
 
-╭─〔 *🤖 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿 BOT* 〕  
-├─▸ *Simplicity. Speed. Power. BY ᴏʙᴇᴅᴛᴇᴄʜ  |*  
+╭─〔 *💻 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿.5 𝘽𝙊𝙏* 〕  
+├─▸ *Simplicity. Speed. Power. BY ᴏʙᴇᴅᴛᴇᴄʜ |*  
 ╰─➤ *Your New WhatsApp Sidekick is Here!*
 
-*❤️ Thank you for Choosing 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿!*
+*❤️ Thank you for Choosing 𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓!*
 
 ╭──〔 🔗 *Quick Links* 〕  
 ├─ 📢 *Join Our Channel:*  
 │   Click [**Here**](https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y) to join!  
 ├─ ⭐ *Give Us a Star:*  
-│   Star Us [**Here**](https://github.com/Obedweb/Hunter-Xmd1)!  
+│   Star Us [**Here**](https://github.com/Obedweb/HUNTER XMD)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
-> _© MADE BY ᴏʙᴇᴅᴛᴇᴄʜ_`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/ihzz50.jpg` }, caption: up })
+> _© 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙾𝙱𝙴𝙳𝚃𝙴𝙲𝙷 _`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/mw1loa.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -260,7 +260,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-  if(senderNumber.includes("254794146821")){
+  if(senderNumber.includes("254701082940")){
   if(isReact) return
   m.react("🤍")
    }
@@ -783,7 +783,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿 IS  STARTED ✅");
+  res.send(" 𝑯𝑼𝑵𝑻𝑬𝑹 𝑿𝑴𝑫.5 𝑰𝑺 𝑺𝑻𝑨𝑹𝑻𝑬𝑫 ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
