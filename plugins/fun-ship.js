@@ -39,7 +39,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363416335506023@newsletter",
-          newsletterName: "ObedTechX",
+          newsletterName: "ʜᴜɴᴛᴇʀ xᴍᴅ.5",
           serverMessageId: 143
         }
       }

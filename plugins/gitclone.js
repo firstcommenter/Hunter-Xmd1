@@ -56,7 +56,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363416335506023@newsletter',
-          newsletterName: 'ObedTechX',
+          newsletterName: 'ᴏʙᴇᴅᴛᴇᴄʜ',
           serverMessageId: 143
         }
       }

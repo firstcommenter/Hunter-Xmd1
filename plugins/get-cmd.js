@@ -39,11 +39,11 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-Powered By *ObeddTechX* 🏨`;
+Powered By *ᴏʙᴇᴅᴛᴇᴄʜ* ☣️`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/ggnnes.jpg` },  // Image URL
+            image: { url: `https://files.catbox.moe/mw1loa.jpg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
@@ -51,7 +51,7 @@ Powered By *ObeddTechX* 🏨`;
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363416335506023@newsletter',
-                    newsletterName: 'ObeddTechX',
+                    newsletterName: 'ᴏʙᴇᴅᴛᴇᴄʜ',
                     serverMessageId: 143
                 }
             }
