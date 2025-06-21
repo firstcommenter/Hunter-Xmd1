@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=HUNTER-XMD" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://files.catbox.moe/mw1loa.jpg'/></a>
+<a><img src='https://files.catbox.moe/11w56r.jpg'/></a>
 
 <p align="center">
   <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-HUNTER%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
