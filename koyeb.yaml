@@ -1,6 +1,6 @@
-name: nexus-xmd
+name: hunter-xmd
 services:
-  - name: nexus-xmd-service
+  - name: hunter-xmd-service
     type: web
     ports:
       - 5000
@@ -13,3 +13,4 @@ services:
       - fra
       - sin
       
+
