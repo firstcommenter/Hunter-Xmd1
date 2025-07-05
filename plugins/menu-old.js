@@ -27,7 +27,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
 ┃ ♦️ Quranmenu
 ┃ ♦️ Prayertime
 ┃ ♦️ Aimenu
-┃ ♦️ Anmimemenu
+┃ ♦️ Animemenu
 ┃ ♦️ Reactions
 ┃ ♦️ Convertmenu
 ┃ ♦️ Funmenu
