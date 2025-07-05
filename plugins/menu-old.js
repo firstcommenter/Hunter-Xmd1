@@ -27,7 +27,7 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
 ┃ ♦️ Quranmenu
 ┃ ♦️ Prayertime
 ┃ ♦️ Aimenu
-┃ ♦️ Anmiemenu
+┃ ♦️ Anmimemenu
 ┃ ♦️ Reactions
 ┃ ♦️ Convertmenu
 ┃ ♦️ Funmenu
@@ -273,7 +273,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/j67u2n.jpg` },
+                image: { url: `https://res.cloudinary.com/dgy2dutjs/image/upload/v1751659999/url.crissvevo.co.tz/%E1%B4%8F%CA%99%E1%B4%87%E1%B4%85%E1%B4%9B%E1%B4%8` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
