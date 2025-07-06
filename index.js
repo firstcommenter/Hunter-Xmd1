@@ -115,16 +115,16 @@ const port = process.env.PORT || 9090;
   let up = `*✨ 𝙷𝙴𝙻𝙻𝙾𝚆 𝙷𝚄𝙽𝚃𝙴𝚁 𝚇𝙼𝙳.𝟻 𝙻𝙴𝙶𝙴𝙽𝙳𝚂! ✨*
 
 ╭─〔 *💻 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓𝙈𝘿.5 𝘽𝙊𝙏* 〕  
-├─▸ *Simplicity. Speed. Power. BY ᴏʙᴇᴅᴛᴇᴄʜ |*  
-╰─➤ *Your New WhatsApp Sidekick is Here!*
+├─▸ *𝕤𝕚𝕞𝕡𝕝𝕚𝕔𝕚𝕥𝕪. 𝕤𝕡𝕖𝕖𝕕. 𝕡𝕠𝕨𝕖𝕣𝕖𝕕 . 𝕓𝕪 ᴏʙᴇᴅᴛᴇᴄʜ |*  
+╰─➤ *𝕐𝕠𝕦𝕣 ℕ𝕖𝕨 𝕎𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝕤𝕚𝕕𝕖𝕜𝕚𝕔𝕜 𝕚𝕤 𝕙𝕖𝕣𝕖!*
 
-*❤️ Thank you for Choosing 𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓!*
+*❤️ 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕔𝕙𝕠𝕠𝕤𝕚𝕟𝕘 𝐇𝐔𝐍𝐓𝐄𝐑 𝐗𝐌𝐃.𝟓!*
 
-╭──〔 🔗 *Quick Links* 〕  
-├─ 📢 *Join Our Channel:*  
-│   Click [**Here**](https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y) to join!  
-├─ ⭐ *Give Us a Star:*  
-│   Star Us [**Here**](https://github.com/Obedweb/HUNTER XMD)!  
+╭──〔 🔗 *𝕢𝕦𝕚𝕔𝕜 𝕝𝕚𝕟𝕜𝕤* 〕  
+├─ 📢 *𝕛𝕠𝕚𝕟 𝕠𝕦𝕣 𝕔𝕙𝕒𝕟𝕟𝕖𝕝:*  
+│   Click [*ℍ𝕖𝕣𝕖*](https://whatsapp.com/channel/0029VbAKbSjBA1ep4NkKGd1Y) to join!  
+├─ ⭐ *𝔾𝕚𝕧𝕖 𝕦𝕤 𝕤𝕥𝕒𝕣:*  
+│   𝕊𝕥𝕒𝕣 𝕦𝕤 [*ℍ𝕖𝕣𝕖*](https://github.com/Obedweb/HUNTER XMD)!  
 ╰─🛠️ *Prefix:* \`${prefix}\`
 
 > _© 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙾𝙱𝙴𝙳𝚃𝙴𝙲𝙷 _`;
