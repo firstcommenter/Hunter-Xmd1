@@ -775,8 +775,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• blackbox
 ┃◈┃• luma
 ┃◈┃• dj 
-┃◈┃• criss
-┃◈┃• vevo
+┃◈┃• hunter
+┃◈┃• obed
 ┃◈┃• gpt4
 ┃◈┃• bing
 ┃◈┃• imagine 
