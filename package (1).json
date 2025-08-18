@@ -1,12 +1,12 @@
 {
-  "name": "KHAN-MD",
+  "name": "HUNTER-XMD",
   "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By JawadTechX",
+  "description": "A WhatsApp Bot Created By ObedTechX",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
-    "stop": "pm2 stop KHAN-MD",
-    "restart": "pm2 restart KHAN-MD"
+    "stop": "pm2 stop HUNTER XMD",
+    "restart": "pm2 restart HUNTER-XMD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
