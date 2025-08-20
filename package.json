@@ -1,7 +1,8 @@
+
 {
-  "name": "HUNTER-XMD.5",
-  "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By ᴏʙᴇᴅᴛᴇᴄʜ",
+  "name": "HUNTER-XMD",
+  "version": "5.5.0",
+  "description": "A WhatsApp Bot Created By OBEDTECH",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name HUNTER-XMD",
@@ -19,6 +20,7 @@
     "pm2": "^6.0.5",
     "util": "^0.12.4",
     "express": "latest",
+    "moment-timezone": "^0.5.45",
     "axios": "^1.2.5",
     "crypto-digest-sync": "^1.0.0",
     "crypto-js": "latest",
