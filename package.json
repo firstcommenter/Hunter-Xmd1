@@ -1,7 +1,7 @@
 {
-  "name": "NOVA-XMD",
+  "name": "HUNTER-XMD",
   "version": "4.0.0",
-  "description": "A WhatsApp Bot Created By novamd01",
+  "description": "A WhatsApp Bot Created By OBED",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
