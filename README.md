@@ -10,7 +10,6 @@
 
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{Obedweb}/count.svg" alt="Obedweb :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Obedweb}/count.svg" /></p>
 
 
 
