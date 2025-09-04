@@ -1,7 +1,7 @@
 {
   "name": "HUNTER-XMD",
   "version": "5.0.0",
-  "description": "A WhatsApp bot Created by OBEDTECH",
+  "description": "A WhatsApp bot Created by OBEDTECH1",
   "main": "index.js",
   "scripts": {
     "start": "pm2-runtime index.js --name HUNTER-XMD"
