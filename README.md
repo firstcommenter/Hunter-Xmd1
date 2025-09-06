@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://files.catbox.moe/y05xu3.jpg">
-    <img src="https://i.postimg.cc/bwRBhLp3/5042f575-5d62-426c-821e-273d383cef49.jpg" width="100%" height="auto">
+    <img src="https://files.catbox.moe/y05xu3.jpg" width="100%" height="auto">
   </a>
 </p>
 
